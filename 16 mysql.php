@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 $db_server = "localhost";
 $db_user = "root";
 $db_pass = "Kulundeng.Jamach.1";
@@ -15,8 +15,8 @@ catch(mysqli_sql_exception){
 }
 
 if($connection){
-ECHO "You are connected";
+echo "You are connected";
 }
 
 
-?>
+?> -->
