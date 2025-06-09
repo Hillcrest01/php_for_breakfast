@@ -17,4 +17,7 @@ echo "<br>The price of that pizza is \${$price} ";
 
 echo "<br> You have ordered {$quantity} pizzas and each goes
 at \${$price}. So your total is <b>{$total}</b>"
+
+//when a question mark is included before declaring the data type of a variable, then tit means that the variable accepts the data type given and any other data type
+//for example, private ?int $age
 ?>

@@ -29,7 +29,7 @@
 
 
 echo $_GET["name"] . "<br>";
-echo "{$_GET["password"]}"
+echo "{$_GET["password"]} <br>"
 
 
 ?>
