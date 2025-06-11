@@ -1,1 +1,5 @@
-echo "This is for testing purposes."
+<?php
+
+echo "Hello, welcome to the homepage"
+
+?>
